@@ -1,12 +1,12 @@
 # Sobre o 1º Projeto Prático
 
-Esse é um projeto de modelagem de banco de dados relacional para uma loja física do Boticário (situação fictícia). 
+Esse é um projeto de modelagem de banco de dados relacional para uma loja física de uma marca de perfumaria e produtos de cuidado e beleza (case fictício). 
 
-O projeto levou em consideração conceitos e entidades relacionados à parte de **vendas**, **sistema de pontuação** e **gestão de produtos em estoque,** para criar a modelagem lógica e física do banco de dados, como proposto no desafio.
+O projeto levou em consideração conceitos e entidades relacionados a parte de **vendas**, **sistema de pontuação** e **gestão de produtos em estoque,** para criar a modelagem lógica e física do banco de dados, como proposto no desafio.
 
 A implementação desse projeto envolve a transição do modelo conceitual, para o lógico e por fim, o modelo físico, que utiliza linguagem SQL.
 
-*O projeto entregue fez parte da trilha de Dados fornecida pelo Desenvolve, programa gratuito de formação e inclusão em tecnologia do Grupo Boticário.*
+*O projeto entregue fez parte da trilha de Dados do Desenvolve 2024, programa gratuito de formação e inclusão em tecnologia do Grupo Boticário.*
 
 ## Fluxograma do projeto
 
@@ -23,19 +23,21 @@ A nova loja física do Boticário inaugurada em Goiânia precisa da um banco de 
 
 A partir desse cenário fictício foi criado o Diagrama Entidade Relacionamento abaixo: 
 
-![PP1-modelo-conceitual](https://github.com/sayuriyoshy/desenvolve-2024/assets/160623866/3c644564-8e23-47bb-a6e6-1065b855091c)
+![PP1-modelo-conceitual](https://github.com/sayuriyoshy/desenvolve-2024/assets/160623866/4fd3ca4a-cbf6-49ba-b6a7-dae1cc401735)
 
 ## Modelo Lógico
 
 Todas as entidades identificadas no modelo conceitual se tornaram tabelas, e seus atributos, campos. Além disso, no modelo lógico é possível observa melhor as chaves primárias e estrangeiras, e cardinalidade das relações.
 
-Arquivo: [PP1_modelo_logico.brM3](https://github.com/sayuriyoshy/desenvolve-2024/blob/4f9cece815413dc9def7c24bb94fac223592b67a/PP1_modelo_logico.brM3)
+![PP1-modelo-logico](https://github.com/sayuriyoshy/desenvolve-2024/assets/160623866/2cb1373e-59fd-4619-80b6-731f8a780c73)
+Arquivo: [PP1_modelo_logico.brM3](https://github.com/sayuriyoshy/desenvolve-2024/blob/630df5c837dd05b90ebcec95774a2e30025d7d40/projeto-pratico-1/PP1_modelo_logico.brM3)
 
 ## Modelo Físico
 
 A partir do modelo lógico as informações de tabela e campos foram transferidas para o modelo físico, onde foram definidos os tipos de dados utilizado em cada campo, assim como restrições.
 
-Arquivo: [PP1_modelo_fisico.architect](https://github.com/sayuriyoshy/desenvolve-2024/blob/4f9cece815413dc9def7c24bb94fac223592b67a/PP1_modelo_fisico.architect)
+![PP1-modelo-fisico](https://github.com/sayuriyoshy/desenvolve-2024/assets/160623866/d43f65d1-1216-4794-98b6-b1cbabe4eecc)
+Arquivo: [PP1_modelo_fisico.architect](https://github.com/sayuriyoshy/desenvolve-2024/blob/630df5c837dd05b90ebcec95774a2e30025d7d40/projeto-pratico-1/PP1_modelo_fisico.architect)
 
 ## Ferramentas utilizadas
 
