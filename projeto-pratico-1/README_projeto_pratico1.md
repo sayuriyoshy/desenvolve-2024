@@ -19,9 +19,9 @@ A implementação desse projeto envolve a transição do modelo conceitual, para
 
 Para criar o modelo foi escolhido o segmento loja física e identificada as possíveis entidades, relacionamentos e atributos, ligados a esse recorte. Criei a seguinte situação para começar o meu diagrama:
 
-A nova loja física do Boticário inaugurada em Goiânia precisa da um banco de dados que comporte informações essenciais para o negócio como: dados sobre os clientes, vendas, programa de pontuação, além de produto para que seja possível a gestão efetiva do estoque.
+A nova loja física da marca Beleza inaugurada em Goiânia precisa da um banco de dados que comporte informações essenciais para o negócio como: dados sobre os clientes, vendas, programa de pontuação, além de produto para que seja possível a gestão efetiva do estoque.
 
-A partir desse cenário fictício foi criado o Diagrama Entidade Relacionamento abaixo: 
+A partir desse cenário fictício foi criado o Diagrama Entidade Relacionamento abaixo, onde classifico as entidades fortes como: Clientes e CD; e as demais como entidades fracas. 
 
 ![PP1-modelo-conceitual](https://github.com/sayuriyoshy/desenvolve-2024/assets/160623866/4fd3ca4a-cbf6-49ba-b6a7-dae1cc401735)
 
