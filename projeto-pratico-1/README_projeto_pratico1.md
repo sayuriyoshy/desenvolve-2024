@@ -19,17 +19,18 @@ A implementação desse projeto envolve a transição do modelo conceitual, para
 
 Para criar o modelo foi escolhido o segmento loja física e identificada as possíveis entidades, relacionamentos e atributos, ligados a esse recorte. Criei a seguinte situação para começar o meu diagrama:
 
-A nova loja física da marca Beleza inaugurada em Goiânia precisa da um banco de dados que comporte informações essenciais para o negócio como: dados sobre os clientes, vendas, programa de pontuação, além de produto para que seja possível a gestão efetiva do estoque.
+A nova loja física da marca e franqueadora **Beleza Viva**, inaugurada em Goiânia, precisa da um banco de dados que comporte informações essenciais para o negócio como: dados sobre os clientes, vendas, programa de pontuação, além de produto para que seja possível a gestão efetiva do estoque.
 
-A partir desse cenário fictício foi criado o Diagrama Entidade Relacionamento abaixo, onde classifico as entidades fortes como: Clientes e CD; e as demais como entidades fracas. 
+A partir desse cenário fictício foi criado o Diagrama Entidade Relacionamento abaixo, onde classifico as entidades fortes como: Clientes e Centro de Distribuição; e as demais como entidades fracas. 
 
 ![PP1-modelo-conceitual](https://github.com/sayuriyoshy/desenvolve-2024/assets/160623866/4fd3ca4a-cbf6-49ba-b6a7-dae1cc401735)
 
 ## Modelo Lógico
 
-Todas as entidades identificadas no modelo conceitual se tornaram tabelas, e seus atributos, campos. Além disso, no modelo lógico é possível observa melhor as chaves primárias e estrangeiras, e cardinalidade das relações.
+Todas as entidades identificadas no modelo conceitual se tornaram tabelas, e seus atributos, campos. Além disso, no modelo lógico é possível observa melhor as chaves primárias e estrangeiras, a cardinalidade das relações e a normalização aplicada.
 
 ![PP1-modelo-logico](https://github.com/sayuriyoshy/desenvolve-2024/assets/160623866/2cb1373e-59fd-4619-80b6-731f8a780c73)
+
 Arquivo: [PP1_modelo_logico.brM3](https://github.com/sayuriyoshy/desenvolve-2024/blob/630df5c837dd05b90ebcec95774a2e30025d7d40/projeto-pratico-1/PP1_modelo_logico.brM3)
 
 ## Modelo Físico
@@ -55,4 +56,4 @@ Contribuições e sugestões são muito bem-vindas! Sinta-se à vontade para sug
 ### Autora
 Sayuri Yoshy
 
-[LinkedIn](https://www.linkedin.com/in/sayuri-yoshy/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayuri-yoshy/)
