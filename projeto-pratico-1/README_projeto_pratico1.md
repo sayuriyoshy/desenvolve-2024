@@ -27,7 +27,7 @@ A partir desse cenário fictício foi criado o Diagrama Entidade Relacionamento 
 
 ## Modelo Lógico
 
-Todas as entidades identificadas no modelo conceitual se tornaram tabelas, e seus atributos, campos. Além disso, no modelo lógico é possível observa melhor as chaves primárias e estrangeiras, a cardinalidade das relações e a normalização aplicada.
+Todas as entidades identificadas no modelo conceitual se tornaram tabelas e seus atributos em campos. Além disso, no modelo lógico é possível observar melhor as chaves primárias e estrangeiras, a cardinalidade das relações e a normalização aplicada.
 
 ![PP1-modelo-logico](https://github.com/sayuriyoshy/desenvolve-2024/assets/160623866/2cb1373e-59fd-4619-80b6-731f8a780c73)
 
